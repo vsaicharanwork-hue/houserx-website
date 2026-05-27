@@ -8,12 +8,12 @@ export const site = {
   description:
     'Independent home health audits for South Delhi premium homes. 127-point diagnostic. Full PDF report. No commissions. No repairs.',
 
-  // Contact details — UPDATE THESE before deploying
-  phone: '+91 98765 43210',
-  phoneLink: '+919876543210', // no spaces, no dashes, for tel: links
-  whatsapp: '919876543210', // country code + number, no + sign, for wa.me links
+  // Contact details - UPDATE THESE before deploying
+  phone: '+91 81300 45524',
+  phoneLink: '+918130045524', // no spaces, no dashes, for tel: links
+  whatsapp: '918130045524', // country code + number, no + sign, for wa.me links
   email: 'hello@houserx.in',
-  address: 'South Delhi, New Delhi, India',
+  address: 'New Delhi, Delhi, India',
 
   // URLs
   url: 'https://houserx.in',
@@ -32,7 +32,7 @@ export const site = {
     'Lajpat Nagar',
   ],
 
-  // Pricing — must match Execution Pack §5
+  // Pricing - must match Execution Pack §5
   pricing: {
     buyer: { min: 9999, max: 25999 },
     annual: { min: 6999, max: 17999 },
